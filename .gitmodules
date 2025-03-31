@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Falachi/McMapAPI.git
+[submodule "scraping"]
+	path = scraping
+	url = https://github.com/Falachi/McMapScraping.git
+[submodule "frontend/McMap"]
+	path = frontend/McMap
+	url = https://github.com/Falachi/McMapWebsite.git
